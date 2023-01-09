@@ -1,16 +1,6 @@
-# skyscrapper1
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![sc1](https://user-images.githubusercontent.com/113905603/211269959-700f15c8-a4e0-4ed8-a7b4-9dbfe8e34af7.png)
+![sc2](https://user-images.githubusercontent.com/113905603/211269983-84419192-5a5d-4097-a2b3-814690f12045.png)
